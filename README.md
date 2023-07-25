@@ -3,6 +3,9 @@ Clone Slackware multilib mirror to a local folder using lftp
 
 #### Default mirror: http://bear.alienbase.nl/mirrors/people/alien/multilib
 
+### Alternative - Use rsync
+https://github.com/ryuuzaki42/13_clone_multilib_Slackware_repo_rsync
+
 #### Use:
 ```sh
 $ ./clone_Slackware_multilib_lftp_JBs.sh
